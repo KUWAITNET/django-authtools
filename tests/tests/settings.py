@@ -1,5 +1,3 @@
-from __future__ import print_function
-
 import os
 
 from django import VERSION as DJANGO_VERSION
